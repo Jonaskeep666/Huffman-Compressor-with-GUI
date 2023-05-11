@@ -6,7 +6,8 @@ This is a simple implementation of a Huffman encoding compressor and decompresso
 
 ## Encoding
 
-![](assert/CompressExample.png)
+
+<img src="assert/CompressExample.png" width=400>
 
 1>	 Step 1：Create Huffman Tree
 - Create Freq Table
@@ -24,7 +25,7 @@ This is a simple implementation of a Huffman encoding compressor and decompresso
 
 ## Decoding
 
-![](assert/decompressExample.png)
+<img src="assert/decompressExample.png" width=400>
 
 1>	 Step 1：Read file
 - Read the header info. 
