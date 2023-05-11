@@ -6,7 +6,7 @@ This is a simple implementation of a Huffman encoding compressor and decompresso
 
 ## Encoding
 
-![Example](https://github.com/Jonaskeep666/Huffman-Compressor-with-GUI/blob/master/CompressExample.png)
+![](assert/CompressExample.png)
 
 1>	 Step 1：Create Huffman Tree
 - Create Freq Table
@@ -24,7 +24,7 @@ This is a simple implementation of a Huffman encoding compressor and decompresso
 
 ## Decoding
 
-![Example](https://github.com/Jonaskeep666/Huffman-Compressor-with-GUI/blob/master/decompressExample.png)
+![](assert/decompressExample.png)
 
 1>	 Step 1：Read file
 - Read the header info. 
