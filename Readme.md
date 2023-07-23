@@ -7,7 +7,7 @@ This is a simple implementation of a Huffman encoding compressor and decompresso
 ## Encoding
 
 
-<img src="assert/CompressExample.png" width=400>
+<img src="assets/CompressExample.png" width=400>
 
 1>	 Step 1：Create Huffman Tree
 - Create Freq Table
